@@ -1,0 +1,1 @@
+Vamos a modificar el estilo de una estructura HTML ya definida usando código CSS. Debemos escribir, en el archivo style.css, un selector que afecte a TODAS las etiquetas <p> con la regla color:red.
